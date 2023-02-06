@@ -1,6 +1,6 @@
 ![Skirt Insers](Images/Installed_Inserts.jpg)
 
-#V2.4 and Trident Front Skirt Inserts
+# V2.4 and Trident Front Skirt Inserts
 Add a touch of color to the front skirt without needing to reprint the skirts, or do filiament swaps.
 
 ### Printing
